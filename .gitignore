@@ -128,9 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-
-
 ##### Science Machine Project Specific ####
 # Don't include data (papers, PDFs, parsed versions, etc.)
 data/
+
