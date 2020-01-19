@@ -128,5 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data (PDFs, figures, etc.)
-scraping/data/*.pdf
+##### Science Machine Project Specific ####
+# Don't include data (papers, PDFs, parsed versions, etc.)
+data/
+
